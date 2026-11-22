@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "My personal portfolio website built using HTML and CSS to showcase my skills, learning journey, projects, and achievements as a B.Tech CSE (AI &amp; ML) student. This project represents my first step towards web development and building real-world projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh5454/rishabh_portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabh5454/rishabh_portfolio/issues"
+  },
+  "homepage": "https://github.com/rishabh5454/rishabh_portfolio#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
